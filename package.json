@@ -1,0 +1,17 @@
+{
+  "name": "hc",
+  "version": "1.0.0",
+  "description": "backend for youtube",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["javascript","backend"],
+  "author": "Neeraj Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1"
+  }
+}
